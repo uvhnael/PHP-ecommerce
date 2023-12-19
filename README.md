@@ -1,5 +1,7 @@
 # PHP-ecommerce
 
+This is just PHP not using any framework :'(
+
 1. upload ecomdb.sql in db file
 2. do what ever u want :)
 
